@@ -7,7 +7,7 @@ import java.io.RandomAccessFile;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class Mutildownload {
+public class MutilDownload {
 	/**
 	 * ============================================================
 	 * 
