@@ -1,2 +1,2 @@
 # Java
-the code about Java
+code about Java
